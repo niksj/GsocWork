@@ -3,16 +3,21 @@
 
 <br>
 This work contributes for Sigmah's next version <b>Sigmah 2.3</b> Scheduled For Release 2016-11-15.<br>
-Pull Requests will be merged as planned in [Roadmap](http://www.sigmah.org/issues/roadmap_page.php).<br><br>
+Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigmah.org/issues/roadmap_page.php).<br><br>
 
-1. <b>[632: Replace "delete" icon by "link_delete" on delete project link button](https://github.com/sigmah-dev/sigmah/pull/30)</b>
+1. <b>[632: Replace "delete" icon by "link_delete" on delete project link button](https://github.com/niksj/sigmah/commits/LinkDelete%23632?author=niksj)</b>
       <br><i>(fix for the issue [#632](http://www.sigmah.org/issues/view.php?id=632))</i><br><br>
-2. <b>[511: Category modification flexibility](https://github.com/sigmah-dev/sigmah/pull/36)</b>
+
+2. <b>[867: Field type doesn't match new field type drop-down list](https://github.com/niksj/sigmah/commits/%23867FieldTypes?author=niksj)</b>
+      <br><i>(fix for the issue [#867](http://www.sigmah.org/issues/view.php?id=867))</i><br><br>
+
+3. <b>[511: Category modification flexibility](https://github.com/niksj/sigmah/commits/%23511Category?author=niksj)</b>
       <br><i>(fix for the issue [#511](http://www.sigmah.org/issues/view.php?id=511))</i>
 <br><br>
-3. <b>[276 & 430: Groups Tab feature](https://github.com/sigmah-dev/sigmah/pull/37)</b>
+4. <b>[276 & 430: Groups Tab feature](https://github.com/niksj/sigmah/commits/Groups?author=niksj)</b>
       <br><i>(fix for the issues [#276](http://www.sigmah.org/issues/view.php?id=276) and [#430](http://www.sigmah.org/issues/view.php?id=430))</i>
 <br><br>
+
 (Work in Progress):
 1. Project/orgunit model export/import through an XML format<br><i>(fix for the issue [#853](http://www.sigmah.org/issues/view.php?id=853))</i><br>
 This will be completed before September end.
