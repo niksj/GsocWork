@@ -1,11 +1,11 @@
 <h1 align="center">Easier Project Model Management</h1>
-
-
+<p align="center">Nikita Jibhkate<br> Government College of Engineering, Aurangabad<br>Mentors: Olivier Sarrat<br>   S.P. Mohanty </p>
 <br>
 <p align="center">This work contributes for Sigmah's next version <b>Sigmah 2.3</b> Scheduled For Release 2016-11-15.<br>
 Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigmah.org/issues/roadmap_page.php).</p><br><br>
 
 <i>Code links:</i>
+<br>
 1. <b>[632: Replace "delete" icon by "link_delete" on delete project link button](https://github.com/sigmah-dev/sigmah/pull/30/commits)</b>
       <br><i>(fix for the issue [#632](http://www.sigmah.org/issues/view.php?id=632))</i><br><br>
 
