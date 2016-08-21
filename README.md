@@ -1,5 +1,6 @@
 <h1 align="center">Easier Project Model Management</h1>
-<p align="center">Nikita Jibhkate<br> Government College of Engineering, Aurangabad<br>Mentors: Olivier Sarrat<br>   S.P. Mohanty </p>
+<p align="center">Nikita Jibhkate<br> Government College of Engineering, Aurangabad<br>Mentors: Olivier Sarrat <pre>                                                   S.P. Mohanty</pre> </p>
+<hr>
 <br>
 <p align="center">This work contributes for Sigmah's next version <b>Sigmah 2.3</b> Scheduled For Release 2016-11-15.<br>
 Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigmah.org/issues/roadmap_page.php).</p><br><br>
