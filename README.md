@@ -1,10 +1,13 @@
 <h1 align="center">Easier Project Model Management</h1>
-<p align="center">Nikita Jibhkate<br> Government College of Engineering, Aurangabad<br>Mentors: Olivier Sarrat <pre>                                                   S.P. Mohanty</pre> </p>
+<p align="center"><b>Organization: <a href="http://www.sigmah.org/">Sigmah</a></b></p>
 <hr>
+<p align="center">Nikita Jibhkate<br> Government College of Engineering, Aurangabad<br>Mentors: Olivier Sarrat, S.P. Mohanty </p>
 <br>
 <p align="center">This work contributes for Sigmah's next version <b>Sigmah 2.3</b> Scheduled For Release 2016-11-15.<br>
 Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigmah.org/issues/roadmap_page.php).</p><br><br>
 
+<h3>Introduction:</h3>
+<p></p>
 <i>Code links:</i>
 <br>
 1. <b>[632: Replace "delete" icon by "link_delete" on delete project link button](https://github.com/sigmah-dev/sigmah/pull/30/commits)</b>
@@ -25,5 +28,10 @@ Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigm
 This will be completed before September end.<br>
 2. Document field: improved former "file list" with hyperlinks<br><i>(fix for the issue [#883](http://www.sigmah.org/issues/view.php?id=883))</i><br>
 This feature is implemented but the bug is causing unexpected behaviour. It will be soon corrected and ready by then.
+<br><br>
+<h3>Conclusions:</h3>
+<p></p>
+<h3>Acknowledgements:</h3>
+<p>Sincere thanks to Sigmah organization for providing this opportunity. Thanks to community for their help during this development. Also grateful to Google Summer of Code for funding this work.</p>
 <br>
 
