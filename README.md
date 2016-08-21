@@ -4,10 +4,10 @@
 <p align="center">Nikita Jibhkate<br> Government College of Engineering, Aurangabad<br>Mentors: Olivier Sarrat, S.P. Mohanty </p>
 <br>
 <p align="center">This work contributes for Sigmah's next version <b>Sigmah 2.3</b> Scheduled For Release 2016-11-15.<br>
-Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigmah.org/issues/roadmap_page.php).</p><br><br>
+Pull Requests will be merged accordingly as planned in <a href="http://www.sigmah.org/issues/roadmap_page.php">Roadmap</a>.</p><br><br>
 
 <h3>Introduction:</h3>
-<p></p>
+<p>As a Google Summer of Code Project my task was to implement some awaited features that aim at enhancing the flexibility and versatility of the Sigmah project keeping in view the new requirements suggested and feedback provided by the users. I mainly worked around project model management part of the project.</p>
 <i>Code links:</i>
 <br>
 1. <b>[632: Replace "delete" icon by "link_delete" on delete project link button](https://github.com/sigmah-dev/sigmah/pull/30/commits)</b>
@@ -24,13 +24,13 @@ Pull Requests will be merged accordingly as planned in [Roadmap](http://www.sigm
 <br><br>
 
 (Work in Progress):<br>
-1. Project/orgunit model export/import through an XML format<br><i>(fix for the issue [#853](http://www.sigmah.org/issues/view.php?id=853))</i><br>
-This will be completed before September end.<br>
-2. Document field: improved former "file list" with hyperlinks<br><i>(fix for the issue [#883](http://www.sigmah.org/issues/view.php?id=883))</i><br>
-This feature is implemented but the bug is causing unexpected behaviour. It will be soon corrected and ready by then.
+1. Document field: improved former "file list" with hyperlinks<br><i>(fix for the issue [#883](http://www.sigmah.org/issues/view.php?id=883))</i><br>
+This feature is implemented but the bug is causing unexpected behaviour. It will be soon corrected and ready by then.<br>
+2. Project/orgunit model export/import through an XML format<br><i>(fix for the issue [#853](http://www.sigmah.org/issues/view.php?id=853))</i><br>
+This will be completed before September end.
 <br><br>
 <h3>Conclusions:</h3>
-<p></p>
+<p>This way an attempt is made to implement required features.</p><br><br>
 <h3>Acknowledgements:</h3>
 <p>Sincere thanks to Sigmah organization for providing this opportunity. Thanks to community for their help during this development. Also grateful to Google Summer of Code for funding this work.</p>
 <br>
