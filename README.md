@@ -1,5 +1,5 @@
-
-#<i>All links to work performed during GSoC 2016</i>
+#Easier Project Model Management
+###<i>All links to work performed during GSoC 2016</i>
 
 <br>
 This work contributes for Sigmah's next version <b>Sigmah 2.3</b> Scheduled For Release 2016-11-15.<br>
