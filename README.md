@@ -7,7 +7,7 @@
 Pull Requests will be merged accordingly as planned in <a href="http://www.sigmah.org/issues/roadmap_page.php">Roadmap</a>.</p><br><br>
 
 <h3>Introduction:</h3>
-<p>As a Google Summer of Code Project my task was to implement some awaited features that aim at enhancing the flexibility and versatility of the Sigmah project keeping in view the new requirements suggested and feedback provided by the users. I mainly worked around project model management part of the project.</p><br><br>
+<p>As a Google Summer of Code Project my task was to implement some awaited features that aim at enhancing the flexibility and versatility of the Sigmah project keeping in view the new requirements suggested and feedback provided by the users. I mainly worked around project model management part of the project.</p>
 <h3>Code links:</h3>
 <br>
 <p>
@@ -31,7 +31,7 @@ This feature is implemented but the bug is causing unexpected behaviour. It will
 This will be completed before September end.
 <br><br>
 <h3>Conclusions:</h3>
-<p>This way an attempt is made to implement required features.</p><br>
+<p>This way an attempt is made to implement required features.</p>
 <h3>Acknowledgements:</h3>
 <p>Sincere thanks to Sigmah organization for providing this opportunity. Thanks to community for their help during this development. Also grateful to Google Summer of Code for funding this work.</p>
 <br>
