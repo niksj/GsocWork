@@ -7,22 +7,23 @@
 Pull Requests will be merged accordingly as planned in <a href="http://www.sigmah.org/issues/roadmap_page.php">Roadmap</a>.</p><br><br>
 
 <h3>Introduction:</h3>
-<p>As a Google Summer of Code Project my task was to implement some awaited features that aim at enhancing the flexibility and versatility of the Sigmah project keeping in view the new requirements suggested and feedback provided by the users. I mainly worked around project model management part of the project.</p>
-<i>Code links:</i>
+<p>As a Google Summer of Code Project my task was to implement some awaited features that aim at enhancing the flexibility and versatility of the Sigmah project keeping in view the new requirements suggested and feedback provided by the users. I mainly worked around project model management part of the project.</p><br><br>
+<h3>Code links:</h3>
 <br>
-1. <b>[632: Replace "delete" icon by "link_delete" on delete project link button](https://github.com/sigmah-dev/sigmah/pull/30/commits)</b>
-      <br><i>(fix for the issue [#632](http://www.sigmah.org/issues/view.php?id=632))</i><br><br>
+<p>
+1. <a href="https://github.com/sigmah-dev/sigmah/pull/30/commits"><b>632: Replace "delete" icon by "link_delete" on delete project link button</b></a>
+      <br><i>(fix for the issue <a href="http://www.sigmah.org/issues/view.php?id=632">#632</a>)</i><br><br>
 
-2. <b>[867: Field type doesn't match new field type drop-down list](https://github.com/sigmah-dev/sigmah/pull/35/commits)</b>
-      <br><i>(fix for the issue [#867](http://www.sigmah.org/issues/view.php?id=867))</i><br><br>
+2. <a href="https://github.com/sigmah-dev/sigmah/pull/35/commits"><b>867: Field type doesn't match new field type drop-down list</b></a>
+      <br><i>(fix for the issue <a href="http://www.sigmah.org/issues/view.php?id=867">#867</a>)</i><br><br>
 
-3. <b>[511: Category modification flexibility](https://github.com/sigmah-dev/sigmah/pull/36/commits)</b>
-      <br><i>(fix for the issue [#511](http://www.sigmah.org/issues/view.php?id=511))</i>
+3. <a href="https://github.com/sigmah-dev/sigmah/pull/36/commits"><b>511: Category modification flexibility</b></a>
+      <br><i>(fix for the issue <a href="http://www.sigmah.org/issues/view.php?id=511">#511</a>)</i>
 <br><br>
-4. <b>[276 & 430: Groups Tab feature](https://github.com/sigmah-dev/sigmah/pull/37/commits)</b>
-      <br><i>(fix for the issues [#276](http://www.sigmah.org/issues/view.php?id=276) and [#430](http://www.sigmah.org/issues/view.php?id=430))</i>
+4. <a href="https://github.com/sigmah-dev/sigmah/pull/37/commits"><b>276 & 430: Groups Tab feature</b></a>
+      <br><i>(fix for the issues <a href="http://www.sigmah.org/issues/view.php?id=276">#276</a> and <a href="http://www.sigmah.org/issues/view.php?id=430">#430</a>)</i>
 <br><br>
-
+</p>
 (Work in Progress):<br>
 1. Document field: improved former "file list" with hyperlinks<br><i>(fix for the issue [#883](http://www.sigmah.org/issues/view.php?id=883))</i><br>
 This feature is implemented but the bug is causing unexpected behaviour. It will be soon corrected and ready by then.<br>
@@ -30,7 +31,7 @@ This feature is implemented but the bug is causing unexpected behaviour. It will
 This will be completed before September end.
 <br><br>
 <h3>Conclusions:</h3>
-<p>This way an attempt is made to implement required features.</p><br><br>
+<p>This way an attempt is made to implement required features.</p><br>
 <h3>Acknowledgements:</h3>
 <p>Sincere thanks to Sigmah organization for providing this opportunity. Thanks to community for their help during this development. Also grateful to Google Summer of Code for funding this work.</p>
 <br>
